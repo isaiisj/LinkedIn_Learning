@@ -6,3 +6,11 @@
   JUnit Annotations, JUnit Write, JUnit DisplayName, and more. She goes over more advanced uses of JUnit, such as dependency injection,
   parameterized tests, and timeouts, to name a few. Maaike finishes up with a quick peek at next steps you can take, like how to make 
   code ready for unit testing, best practices, and a brief overview of Mockito.</p>
+  <h3>Installing</h3>
+  <ol>
+  <li>To use these exercise files, you must have the following installed:</li>
+    <ul>
+      <li>Java SDK</li>
+      <li>Java IDE (Such as IntelliJ, Eclipse or VS Code)</li>
+    </ul>
+</ol>
