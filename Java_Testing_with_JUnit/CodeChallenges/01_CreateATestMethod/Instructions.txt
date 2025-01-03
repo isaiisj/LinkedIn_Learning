@@ -1,2 +1,3 @@
-After the JUnit 5 test class called called CalculatorTest. Make the necessary changes
-to turn the method called testAddition() to test a method.
+After the JUnit 5 test class called called CalculatorTest. 
+Make the necessary changes to turn the method called 
+testAddition() to test a method.
