@@ -25,6 +25,7 @@ public class Simulator {
                 int rolledNumber = rand.nextInt(6) + 1;
                 System.out.println(display(rolledNumber));
             }
+            
         }catch (InputMismatchException e){
             System.out.println("That is not a valid number");
         }
