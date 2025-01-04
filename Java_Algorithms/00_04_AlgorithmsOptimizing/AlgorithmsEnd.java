@@ -1,4 +1,4 @@
-public class AlgorithmsOptimizingEnd {
+public class AlgorithmsEnd {
 
     public static int findMaximum(int a, int b, int c) {
         if (a > b) {
