@@ -1,4 +1,4 @@
-public class AlgorithmsStringValidation {
+public class Algorithms {
 
     public static boolean isUppercase(String s) {
         return s.chars().allMatch(Character::isUpperCase);
