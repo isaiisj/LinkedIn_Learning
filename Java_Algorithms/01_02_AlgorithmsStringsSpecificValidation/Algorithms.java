@@ -1,4 +1,4 @@
-public class AlgorithmsStringsSpecificValidations {
+public class Algorithms {
 
     public static boolean isPasswordComplex(String s) {
         return s.chars().anyMatch(Character::isUpperCase) &&
