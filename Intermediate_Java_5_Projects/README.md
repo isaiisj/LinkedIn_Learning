@@ -2,4 +2,6 @@
 <ol>
   <li>Dice-Rolling Simulator</li>
   <li>Word Guessing Game</li>
+  <li>Password Generator</li>
+  <li>Weather Forecasrt Application</li>
 </ol>
