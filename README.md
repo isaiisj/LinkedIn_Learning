@@ -6,4 +6,5 @@
   <li>Java Algorithms</li>
   <li>Java: Testing with JUnit</li>
   <li>Python Data Structures: Linked Lists</li>
+  <li>Using Python for Automation</li>
 </ul>
