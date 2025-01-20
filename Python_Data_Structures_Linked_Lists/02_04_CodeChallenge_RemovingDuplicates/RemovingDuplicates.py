@@ -10,16 +10,16 @@ Example 1:
 # Python code​​​​​​‌‌​​​‌​‌‌​‌​‌‌​‌‌​​​‌​​‌​ below
 
 def remove_duplicates(ll):
-        # current pointer
-        current = ll
+    # current pointer
+    current = ll
 
-        # while current and curren.next not null
-        while current and current.next:
-            # skip the node 
-            if current.val == current.next.val:
-                current.next = current.next.next
-            else:
-                # move to next node
-                current = current.next
+    # while current and curren.next not null
+    while current and current.next:
+        # skip the node 
+        if current.val == current.next.val:
+            current.next = current.next.next
+        else:
+            # move to next node
+            current = current.next
             
-        return current
+    return current
